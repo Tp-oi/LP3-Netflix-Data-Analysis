@@ -103,8 +103,16 @@ This project is a complete exploratory analysis of Netflix content using SQL and
 
 ---
 
+
 ## Author
-Tyler Parnell, Mathematics and Big Data Student.
+
+Tyler Parnell (Tp-oi), Mathematics and Big Data Student.
 Feel free to reach out if you have questions about the project.
 
 *This project was completed as part of my ongoing effort to develop my data science skills and build my portfolio.*
+
+---
+
+## License
+
+This project is distributed freely under the MIT license
